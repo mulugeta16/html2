@@ -38,9 +38,11 @@ header ul:after {
 }
 /* Up to here is the implementation of the header part */
 .main-header img {
+  width: 13%;
 /* Implementation of main image (white “Achieve” text image) */
 }
 .about {
+  font-size: 1.5rem;
 /* About Implementation of Achieve part */
 }
 /* from here */
